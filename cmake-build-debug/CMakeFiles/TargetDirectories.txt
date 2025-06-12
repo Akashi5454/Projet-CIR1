@@ -1,0 +1,3 @@
+/Users/noegavard/Documents/ISEN 2024 - 2025/projet algoC/projet_heros_xyz/cmake-build-debug/CMakeFiles/projet_heros_xyz.dir
+/Users/noegavard/Documents/ISEN 2024 - 2025/projet algoC/projet_heros_xyz/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/noegavard/Documents/ISEN 2024 - 2025/projet algoC/projet_heros_xyz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
