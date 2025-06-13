@@ -11,6 +11,6 @@
 
 #define LINE_SIZE 2000
 
-
+void startSect(char* sect_name);
 
 #endif //LECTURE_H

@@ -4,4 +4,7 @@
 
 #include "lecture.h"
 
-
+void startSect(char* sect_name) {
+    printf("test\n");
+    printf("%s\n", sect_name);
+}
